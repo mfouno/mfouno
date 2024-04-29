@@ -1,16 +1,13 @@
-### Hi there 👋
+# 👋 Hi there, I'm Martin.
 
-<!--
-**mfouno/mfouno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I'm a **Senior Data Analyst** and **Analytics Engineer** with a passion for transforming complex datasets into actionable insights and innovative solutions. I specialize in data analysis, employing advanced analytics techniques and engineering robust data pipelines to empower decision-making and drive business success.
 
-Here are some ideas to get you started:
+### My Skills
+- **Data Analysis:** Expert in SQL, experienced with business / marketing / product data analysis.
+- **Business Intelligence:** Proficient with Tableau.
+- **Analytics Engineer:** Experienced in creating pipelines and data models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with Me
+📫 Feel free to reach out to me for collaborations or just a chat about all things data!
+
